@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+nav ul{
+    display: inline;
+    list-style: none;
+}
+
+.li{
+    padding: 0px 10px;
+    text-decoration: underline;
+    font-family: roboto;
+    color:green;
+
+}
+
+.footer{
+    color: brown;
+    align-items: center;
+    margin-top: 700px;
+    margin-left:700px;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bold;
+}
